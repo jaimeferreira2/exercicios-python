@@ -1,0 +1,3 @@
+frase = ("aaaaaaaa")
+
+len(frase)
